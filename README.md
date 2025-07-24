@@ -1,6 +1,9 @@
 # CloudPeek-weather-dashboard
 CloudPeek is a simple and responsive weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data from an external API and displays it in a clean UI.It is perfect for practicing frontend and API integration.
 
+> 🚧 **Project Status: In Progress**  
+> This project is currently under development and not yet feature-complete.
+
 ---
 
 ## 🔧 Features
