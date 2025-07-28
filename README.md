@@ -28,4 +28,4 @@ CloudPeek is a simple and responsive weather application built using **HTML**, *
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/climacast.git
+   git clone https://github.com/your-username/CloudPeek-weather-dashboard.git
