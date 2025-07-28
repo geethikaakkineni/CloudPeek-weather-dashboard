@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>weather forecast</title>
+    <link rel="stylesheet" href="weath.css">
+</head>
+<body>
+    <center>
+    <div id="box">
+        <h3>WEATHER APP</h3>
+        <input id="city-input" type="text" name="city" placeholder="Enter city name">
+        <br/><br/>
+        <button type="button" id="get-weather-btn">get temperature</button> 
+    <div id="weather-details">
+        <p>temperature: <span id="temp-display">--</span>°C</p>
+        <p>feels like: <span id="feels-like">--</span>°C</p>
+        <p>min temperature: <span id="min-temp-display">--</span>°C</p>
+        <p>max temperature:<span id="max-temp-display">--</span>°C</p>
+        <p>weather condition:<span id="condition-display">--</span></p>
+        <p>Pressure:<span id="pressure-display">--</span></p>
+        <p>Humidity:<span id="humidity-display">--</span>%</p>
+        <p>Cloudiness:<span id="cloudiness-display">--</span>%</p>
+        <p>Wind Speed:<span id="wind-speed-display">--</span> m/s</p>
+    </div>
+    <div id="message-display"></div>
+    </div>
+    <br/><br/>
+    </center>
+<script src="script.js"></script>
+</body>
+</html>
